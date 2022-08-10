@@ -1,0 +1,8 @@
+~-~-~-~ List of Departments in PU ~-~-~-~
+
+        1) Arts
+        2) Business Management and Commerce
+        3) Engineering and Technology
+        4) Law
+        5) Medical Sciences
+        6) Pharmaceutical Sciences
